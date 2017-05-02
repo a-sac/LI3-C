@@ -16,5 +16,7 @@ We tried to reduce time as much as possible, using Openmp where possible and has
 
 ## Collaborators
 Hugo Brandão
+
 Sérgio Alves
+
 Tiago Alves
