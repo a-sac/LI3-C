@@ -4,7 +4,7 @@ This is the first part of the Software Laboratory 3 project in my degree's cours
 
 ## C? That's just boring. I don't even know how to run it.
 C is love, C++ is life. Trust me. I'm almost an engineer.
-to run it, in the main directory type `make program` in your bash/shell
+To run it, in the main directory type `make program` in your bash/shell
 After that run `./program *snaps_paths*` NOTE: The snapshots are over 100MB each so i cannot upload them here, working on a fix.
 
 ## Is this useful in any way?
@@ -19,10 +19,14 @@ We asked him how, he is a nice guy.
 We tried to reduce time as much as possible, using Openmp where possible and hashtable paradigms in the insertion and search. It turned out nicely.
 
 ## Well I need to donate my entire savings to the authors! This changed my life! Can I know who they are?
-Well, thank these guys. They are awesome. And keep your money, wast it on something that cleans up your room for you.WWW 
+Well, thank these guys. They are awesome. And keep your money, wast it on something that cleans up your room for you.
 
 [Hugo Brandão (Me!)](https://github.com/jhugobb)
 
 [Sérgio Alves](https://github.com/a-sac)
 
 [Tiago Alves](https://github.com/tdaa)
+
+### There is also a Java version that is not as fast, but is as pretty as this one.
+
+You can find it [here] (https://github.com/jhugobb/LI3_Java)
