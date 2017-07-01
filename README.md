@@ -21,7 +21,7 @@ We tried to reduce time as much as possible, using Openmp where possible and has
 ## Well I need to donate my entire savings to the authors! This changed my life! Can I know who they are?
 Well, thank these guys. They are awesome. And keep your money, wast it on something that cleans up your room for you.
 
-[Hugo Brandão (Me!)](https://github.com/jhugobb)
+[Hugo Brandão](https://github.com/jhugobb)
 
 [Sérgio Alves](https://github.com/a-sac)
 
